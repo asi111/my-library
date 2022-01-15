@@ -1,0 +1,22 @@
+.footer{
+    background-image: url("https://media.istockphoto.com/photos/rustic-brwon-paper-background-picture-id855603544?b=1&k=20&m=855603544&s=170667a&w=0&h=FWwg0RzO5Kf9TqF-vreYD9DYLkERwJ5Uk5Wq5eUnfw4=");
+    margin-top: 15px;
+    width: 100%;
+    height: 25vh;
+    display: flex;
+}
+
+
+.git{
+    color: white;
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.footer p {
+    color: white;
+    margin-left: 100px;
+    margin-top: 20px;
+}

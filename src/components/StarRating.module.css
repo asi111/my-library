@@ -1,0 +1,17 @@
+ /* .starRating button  {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  } */
+  .on {
+    color: yellow;
+  }
+  .off {
+    color: #000;
+  }
+
+/* .starRating .star{
+    width: 5550px; 
+    height: 50px;
+  } */
